@@ -12,3 +12,6 @@ julia.exe
 
 #Archivo de editor
 .vscode/
+
+#evita ignorar la carpeta assets
+!assets/*.png
