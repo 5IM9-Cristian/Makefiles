@@ -18,7 +18,9 @@ En este proyecto genera una representación del Conjunto de Julia el cual es un 
     ```bash
     make
     ```
-    Con esto el makefile se ejecutara produciendo la siguiente salida:
+    Con esto el makefile se ejecutara siguiendo una serie de instrucciones que van desde la compilacion del programa y la generacion de su codigo objeto, la ejecucion de este mismo, posteriormente el uso del archivo .txt de salida para la generacion de la imagen mediante Gnuplot, finalmente abriendo la imagen generada
+    
+    Cuando sea ejecutada producirá la siguiente salida:
 
     ![Ejemplo de ejecucion](/img/Makefile_run.png)
 
