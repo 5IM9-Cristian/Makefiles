@@ -1,0 +1,14 @@
+#Ejecutable 
+julia.exe
+
+#Archivos objeto
+*.o
+
+#Archivo generado por el programa
+*.txt
+
+#Resultado visual
+*.png
+
+#Archivo de editor
+.vscode/
